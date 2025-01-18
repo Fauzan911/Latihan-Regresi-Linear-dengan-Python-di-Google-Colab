@@ -1,4 +1,4 @@
-# Latihan-Regresi-Linear-dengan-Python-di-Google-Colab
+# Latihan Regresi Linear dengan Python di Google Colab
 Repository ini berisi notebook Google Colab untuk latihan regresi linear menggunakan dataset Learning Outcome. 
 Dataset mencakup informasi demografi, sosial, dan akademik siswa, serta nilai ujian mereka.
 
